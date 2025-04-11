@@ -133,7 +133,7 @@ Contributions are welcome! To contribute:
 
 ## 📬 Contact
 
-📩 For any inquiries or feedback, please contact **[your.email@example.com](mailto:devjayswal404@gmail.com)**.
+📩 For any inquiries or feedback, please contact **[devjayswal404@gmail.com](mailto:devjayswal404@gmail.com)**.
 
 ---
 
